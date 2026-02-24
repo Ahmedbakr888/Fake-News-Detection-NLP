@@ -72,13 +72,11 @@ It demonstrates binary text classification, NLP preprocessing, feature engineeri
 ## 🖼 Visualizations
 
 ### ☁ Word Cloud Comparison
-Distinct vocabulary patterns appear in Fake vs Real news articles.
+![word](Words_cloud.png)
 
-### 📊 Confusion Matrix
-High precision and recall across both classes.
 
 ### 🧠 Named Entity Recognition (NER)
-Extracted entities such as PERSON, ORG, GPE, and DATE to analyze structural differences between fake and real news.
+![NER](NER.png)
 
 ---
 
